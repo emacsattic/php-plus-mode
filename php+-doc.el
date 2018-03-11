@@ -21,7 +21,7 @@
 ;; ************
 (require 'php+-completion)
 (require 'php-funcs)
-(require 'php-project)
+(require 'php+-project)
 (require 'php+-string-utils)
 
 ;; ******

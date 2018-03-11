@@ -65,7 +65,7 @@
 (require 'php-help)
 (require 'php-lineup)
 (require 'php-parse)
-(require 'php-project)
+(require 'php+-project)
 (require 'php-refactor)
 (require 'php-string)
 (require 'php-structure)

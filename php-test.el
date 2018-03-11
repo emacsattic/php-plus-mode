@@ -43,7 +43,7 @@
 ;;; ************
 (require 'files)
 (require 'php-parse)
-(require 'php-project)
+(require 'php+-project)
 
 ;; ******
 ;; CUSTOM

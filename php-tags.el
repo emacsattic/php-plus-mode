@@ -37,7 +37,7 @@
 ;;; Requirements
 ;;; ************
 (require 'etags)
-(require 'php-project)
+(require 'php+-project)
 (require 'php-funcs)
 
 ;; ******
