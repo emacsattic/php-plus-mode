@@ -1,4 +1,4 @@
-;;; php-format.el --- Functions that deal with PHP formatting
+;;; php+-format.el --- Functions that deal with PHP formatting
 
 ;; Version: 2.0
 ;; Created: 07-29-2011
@@ -1549,4 +1549,4 @@ scripts to single-quoted."
             (php-change-string-quotes))
           (php-skip-this-text-struct))))))
 
-(provide 'php-format)
+(provide 'php+-format)

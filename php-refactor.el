@@ -19,7 +19,7 @@
 ;; REQUIREMENTS
 ;; ************
 (require 'php-edit)
-(require 'php-format)
+(require 'php+-format)
 (require 'php-parse)
 (require 'php+-string-utils)
 

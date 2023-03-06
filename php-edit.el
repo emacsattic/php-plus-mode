@@ -20,7 +20,7 @@
 ;; REQUIREMENTS
 ;; ************
 (require 'php-parse)
-(require 'php-format)
+(require 'php+-format)
 (require 'php-funcs)
 (require 'php-structure)
 

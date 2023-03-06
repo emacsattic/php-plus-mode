@@ -60,7 +60,7 @@
 (require 'php+-doc)
 (require 'php-edit)
 (require 'php-font-lock)
-(require 'php-format)
+(require 'php+-format)
 (require 'php-funcs)
 (require 'php-help)
 (require 'php-lineup)
